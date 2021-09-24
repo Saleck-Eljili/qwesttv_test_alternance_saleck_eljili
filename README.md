@@ -16,7 +16,7 @@
 ### lancer le serveur 
 installer nodemon si vous ne l'avez pas déjà fait
     `npm install nodemon --save`
-#### lancer le par
+
     npm start
 #### Ou
     node .
