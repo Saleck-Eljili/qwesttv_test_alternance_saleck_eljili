@@ -2,9 +2,10 @@
 
 ## pour la base de données 
 
-1) créer une base de données de nom qwestbd
-   Changer le mot de passe dans le fichier db.config.js si vous avez un mot de passe
-2) importer le fichier qwestbd.sql
+
+1.  créer une base de données de nom **qwestbd**
+   Changer le mot de passe dans le fichier **db.config.js** si vous avez un mot de passe
+2.  importer le fichier **qwestbd.sql**
 
 
 # pour la partie serveur (back)
@@ -13,9 +14,11 @@
 ### installation des dépendances
     npm install
 ### lancer le serveur 
+#### installer nodemon si vous ne l'avez pas déjà fait
     npm install nodemon --save
+#### lancer le par
     npm start
-### Ou par
+#### Ou
     node .
 
 
